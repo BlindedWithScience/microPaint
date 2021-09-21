@@ -61,7 +61,6 @@ onload = () => {
 				brush(rx, ry);
 			};
 		};
-		console.log('error');
 	};
 
 
